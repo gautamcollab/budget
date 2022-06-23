@@ -1,0 +1,2 @@
+class TotalBudgetController < ApplicationController
+end
